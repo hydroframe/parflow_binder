@@ -1,0 +1,48 @@
+# ParFlow C Configuration Summary
+=================================
+
+# General
+---------
+ParFlow Version:	v3.12.0-20-gc500eb7
+Hostname:		verde.princeton.edu
+OS:			Linux-4.18.0-477.15.1.el8_8.x86_64
+Build Directory: 	/home/ga6/workspace/parflow_for_binder/build
+Install Prefix:         /home/ga6/workspace/parflow_for_binder/parflow
+
+# Compiling Options
+-------------------
+
+Build Type:		
+
+C Compiler:		/usr/bin/cc
+CXX Compiler:		/usr/bin/c++
+Fortran Compiler:	/usr/bin/gfortran
+
+C Flags:		
+CXX Flags:		
+Fortran Flags: 		 -fimplicit-none
+
+# Features Enabled
+------------------
+AMPS Comm Layer:	seq
+AMPS Sequential IO:	ON
+SLURM Support:		
+
+CLM Support:		yes
+Hypre Support:		yes
+Sundials Support:	
+
+Tcl Support:		yes
+Python Support:		
+
+Silo Support:		
+NetCDF Suppport:	
+HDF5 Support:		
+Zlib Support:		
+SZlib Support:		
+
+Backend: 		none
+OMP Support:		
+Kokkos Support:		
+CUDA Support:		
+RMM Support:		
